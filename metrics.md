@@ -6,7 +6,7 @@
 
 | Metric | Value |
 |----------|----------|
-| Merged Pull Requests | 8 |
+| Merged Pull Requests | 9 |
 | Open Source Projects | 7 |
 | Framework Contributions | 3 |
 | Apache Foundation Projects | 1 |
@@ -78,8 +78,9 @@ Total: 4
 - Spring Kafka #4417
 - Kubernetes Java Client #4491
 - InsForge #1412
+- InsForge #1732
 
-Total: 4
+Total: 5
 
 ---
 
@@ -135,7 +136,7 @@ Total: 4
 
 ## Open Source Impact Summary
 
-Contributed merged pull requests to multiple industry-recognized Java projects including Gradle, Spring Kafka, Apache RocketMQ, Kubernetes Java Client, OpenRewrite, cBioPortal, and InsForge.
+Contributed 9 merged pull requests to multiple industry-recognized Java projects including Gradle, Spring Kafka, Apache RocketMQ, Kubernetes Java Client, OpenRewrite, cBioPortal, and InsForge.
 
 Worked across framework internals, distributed messaging systems, build tooling, API reliability, dependency management, automated refactoring, and developer documentation.
 

@@ -107,9 +107,22 @@ Backend Engineer | Java | Spring Boot | Distributed Systems | Open Source Contri
 
 ---
 
+### 🚀 InsForge
+**PR:** https://github.com/InsForge/InsForge/pull/1732
+
+**Title:** Add OpenAPI Specification for Schedules API
+
+- Added a new `openapi/schedules.yaml` specification covering all schedules module endpoints.
+- Registered the schedules API in `docs/docs.json` across language variants to surface it in generated docs.
+- Incorporated review feedback to align request/response schemas and error handling with actual validator and route behavior.
+
+**Technologies:** OpenAPI, API Documentation, TypeScript, Backend Documentation
+
+---
+
 ## Open Source Impact
 
-- ✅ 8 Merged Pull Requests
+- ✅ 9 Merged Pull Requests
 - ✅ Contributions to Gradle, Spring Kafka, Apache RocketMQ, Kubernetes Java Client, OpenRewrite, cBioPortal, and InsForge
 - ✅ Experience working with production-grade Java ecosystems used by thousands of developers worldwide
 - ✅ Improved framework reliability, build tooling, distributed messaging systems, API correctness, and developer experience
@@ -128,4 +141,5 @@ Backend Engineer | Java | Spring Boot | Distributed Systems | Open Source Contri
 - Distributed Systems
 - Static Code Analysis
 - Documentation Engineering
+- OpenAPI
 - Open Source Collaboration
