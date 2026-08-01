@@ -17,6 +17,19 @@ Backend Engineer | Java | Spring Boot | Distributed Systems | Open Source Contri
 
 ---
 
+### 🚀 Gradle
+**PR:** https://github.com/gradle/gradle/pull/38320
+
+**Title:** Report Configuration Cache Warn Mode Through Problems API
+
+- Added Problems API reporting when Gradle runs with configuration cache warn mode enabled.
+- Registered the new problem identifier and added integration test coverage for warn mode behavior.
+- Improved visibility into ignored configuration cache problems and made build behavior easier for developers to diagnose.
+
+**Technologies:** Java, Gradle, Build Systems, Configuration Management, Testing
+
+---
+
 ### 🚀 Spring Kafka
 **PR:** https://github.com/spring-projects/spring-kafka/pull/4391
 
@@ -120,12 +133,25 @@ Backend Engineer | Java | Spring Boot | Distributed Systems | Open Source Contri
 
 ---
 
+### 🚀 InsForge
+**PR:** https://github.com/InsForge/InsForge/pull/1827
+
+**Title:** Document S3 Proxy Mode Upload and Download Strategies
+
+- Updated the storage OpenAPI specification to reflect current S3 proxy mode behavior when presigned URLs are disabled.
+- Clarified that clients should use the returned `method` field to determine upload and download behavior instead of assuming it from the storage backend.
+- Added examples and clarified the `confirmRequired` and `confirmUrl` contract to improve API consumer correctness.
+
+**Technologies:** OpenAPI, API Documentation, Storage APIs, TypeScript
+
+---
+
 ## Open Source Impact
 
-- ✅ 9 Merged Pull Requests
+- ✅ 11 Merged Pull Requests
 - ✅ Contributions to Gradle, Spring Kafka, Apache RocketMQ, Kubernetes Java Client, OpenRewrite, cBioPortal, and InsForge
 - ✅ Experience working with production-grade Java ecosystems used by thousands of developers worldwide
-- ✅ Improved framework reliability, build tooling, distributed messaging systems, API correctness, and developer experience
+- ✅ Improved framework reliability, build tooling, distributed messaging systems, API correctness, configuration diagnostics, and developer experience
 
 ## Core Skills Demonstrated
 
