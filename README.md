@@ -148,12 +148,38 @@ Backend Engineer | Java | Spring Boot | Distributed Systems | Open Source Contri
 
 ---
 
+### 🚀 InsForge
+**PR:** https://github.com/InsForge/InsForge/pull/1833
+
+**Title:** fix(dashboard): Include Cron Schedule in Schedule Search
+
+- Fixed a duplicated predicate bug in the schedule search logic where `functionUrl` was checked twice, preventing users from searching by cron schedule.
+- Replaced the duplicated `functionUrl` predicate with the correct `cronSchedule` predicate.
+- Improved dashboard UX by enabling accurate search across all schedule fields.
+
+**Technologies:** TypeScript, React, Dashboard, Bug Fix
+
+---
+
+### 🚀 Armeria (LINE)
+**PR:** https://github.com/line/armeria/pull/6860
+
+**Title:** Fix IDN Normalization for Authorities with Ports
+
+- Fixed a bug where `IDN.toASCII()` was applied to the entire authority string (host + port) before host/port parsing, causing failures for long internationalized hostnames with ports.
+- Refactored the normalization to apply `IDN.toASCII()` only to the host portion after splitting on the port delimiter.
+- Added tests covering edge cases with long IDN hostnames and various port combinations.
+
+**Technologies:** Java, Armeria, HTTP Networking, IDN, Bug Fix
+
+---
+
 ## Open Source Impact
 
-- ✅ 11 Merged Pull Requests
-- ✅ Contributions to Gradle, Spring Kafka, Apache RocketMQ, Kubernetes Java Client, OpenRewrite, cBioPortal, and InsForge
-- ✅ Experience working with production-grade Java ecosystems used by thousands of developers worldwide
-- ✅ Improved framework reliability, build tooling, distributed messaging systems, API correctness, configuration diagnostics, and developer experience
+- ✅ 13 Merged Pull Requests
+- ✅ Contributions to Gradle, Spring Kafka, Apache RocketMQ, Kubernetes Java Client, OpenRewrite, cBioPortal, InsForge, and Armeria (LINE)
+- ✅ Experience working with production-grade Java and TypeScript ecosystems used by thousands of developers worldwide
+- ✅ Improved framework reliability, build tooling, distributed messaging systems, API correctness, configuration diagnostics, networking, and developer experience
 
 ## Core Skills Demonstrated
 

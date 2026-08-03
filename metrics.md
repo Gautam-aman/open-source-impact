@@ -6,9 +6,9 @@
 
 | Metric | Value |
 |----------|----------|
-| Merged Pull Requests | 11 |
-| Open Source Projects | 7 |
-| Framework Contributions | 3 |
+| Merged Pull Requests | 13 |
+| Open Source Projects | 9 |
+| Framework Contributions | 4 |
 | Apache Foundation Projects | 1 |
 | CNCF Ecosystem Projects | 1 |
 | Build Tool Contributions | 1 |
@@ -40,6 +40,10 @@
 - cBioPortal
 - InsForge
 
+### HTTP / RPC Frameworks
+
+- Armeria (LINE)
+
 ---
 
 ## Technical Areas
@@ -69,8 +73,10 @@
 - Apache RocketMQ #9982
 - OpenRewrite #885
 - cBioPortal #11910
+- InsForge #1833
+- Armeria #6860
 
-Total: 4
+Total: 6
 
 ### Documentation Improvements
 
@@ -110,6 +116,10 @@ Total: 1
 
 - Gradle
 
+### HTTP / RPC Frameworks
+
+- Armeria (LINE)
+
 ---
 
 ## Engineering Skills Demonstrated
@@ -143,8 +153,8 @@ Total: 1
 
 ## Open Source Impact Summary
 
-Contributed 11 merged pull requests to multiple industry-recognized Java projects including Gradle, Spring Kafka, Apache RocketMQ, Kubernetes Java Client, OpenRewrite, cBioPortal, and InsForge.
+Contributed 13 merged pull requests to multiple industry-recognized projects including Gradle, Spring Kafka, Apache RocketMQ, Kubernetes Java Client, OpenRewrite, cBioPortal, InsForge, and Armeria (LINE).
 
-Worked across framework internals, distributed messaging systems, build tooling, API reliability, dependency management, automated refactoring, configuration diagnostics, and developer documentation.
+Worked across framework internals, distributed messaging systems, build tooling, API reliability, dependency management, automated refactoring, configuration diagnostics, HTTP networking, and developer documentation.
 
 Demonstrated ability to navigate large-scale production codebases, collaborate with maintainers, write regression tests, implement bug fixes, and improve developer experience.
