@@ -174,9 +174,48 @@ Backend Engineer | Java | Spring Boot | Distributed Systems | Open Source Contri
 
 ---
 
+### 🚀 Armeria (LINE)
+**PR:** https://github.com/line/armeria/pull/6899
+
+**Title:** Fix NPE in Http1ObjectEncoder.doWriteReset() When pendingWritesMap Is Sparse
+
+- Fixed a NullPointerException in `Http1ObjectEncoder.doWriteReset()` where iterating a contiguous range of request IDs `[minClosedId, maxIdWithPendingWrites]` would hit `null` entries for IDs that had no pending writes.
+- Added a null-guard to skip sparse entries in the pending writes map, preventing NPEs during HTTP/1 connection reset in pipelined request handling.
+- Added test coverage for the sparse-map scenario to prevent regression.
+
+**Technologies:** Java, Armeria, HTTP/1, Netty, Bug Fix
+
+---
+
+### 🚀 InsForge
+**PR:** https://github.com/InsForge/InsForge/pull/1858
+
+**Title:** feat(dashboard): Remove Direct GitHub Dependency from Dashboard Header
+
+- Removed the direct browser-side dependency on the GitHub API for displaying repository stars in the dashboard header.
+- Added a backend endpoint to proxy the GitHub repository metadata, eliminating unauthenticated rate-limit risks on the client.
+- Updated the dashboard frontend to consume the new internal endpoint instead of calling GitHub directly.
+
+**Technologies:** TypeScript, React, Node.js, REST APIs, Dashboard
+
+---
+
+### 🚀 InsForge
+**PR:** https://github.com/InsForge/InsForge/pull/1859
+
+**Title:** docs(openapi): Add Usage API Specification
+
+- Added a new `openapi/usage.yaml` specification covering all usage module endpoints.
+- Documented `POST /api/usage/mcp`, `GET /api/usage/mcp`, and `GET /api/usage/stats` with full request/response schemas.
+- Registered the usage API in `docs/docs.json` to surface it in the generated public API reference.
+
+**Technologies:** OpenAPI, API Documentation, TypeScript, Backend Documentation
+
+---
+
 ## Open Source Impact
 
-- ✅ 13 Merged Pull Requests
+- ✅ 16 Merged Pull Requests
 - ✅ Contributions to Gradle, Spring Kafka, Apache RocketMQ, Kubernetes Java Client, OpenRewrite, cBioPortal, InsForge, and Armeria (LINE)
 - ✅ Experience working with production-grade Java and TypeScript ecosystems used by thousands of developers worldwide
 - ✅ Improved framework reliability, build tooling, distributed messaging systems, API correctness, configuration diagnostics, networking, and developer experience
