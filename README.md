@@ -213,9 +213,22 @@ Backend Engineer | Java | Spring Boot | Distributed Systems | Open Source Contri
 
 ---
 
+### 🚀 InsForge
+**PR:** https://github.com/InsForge/InsForge/pull/1875
+
+**Title:** ci: SHA-pin tj-actions/changed-files
+
+- Replaced the floating `tj-actions/changed-files@v45` workflow reference with a pinned commit SHA to improve CI reproducibility.
+- Applied the SHA pin consistently across the lint-and-format workflow's changed-files steps.
+- Reduced supply-chain risk for the repository's formatting and linting automation.
+
+**Technologies:** GitHub Actions, CI/CD, YAML, Supply Chain Security
+
+---
+
 ## Open Source Impact
 
-- ✅ 16 Merged Pull Requests
+- ✅ 17 Merged Pull Requests
 - ✅ Contributions to Gradle, Spring Kafka, Apache RocketMQ, Kubernetes Java Client, OpenRewrite, cBioPortal, InsForge, and Armeria (LINE)
 - ✅ Experience working with production-grade Java and TypeScript ecosystems used by thousands of developers worldwide
 - ✅ Improved framework reliability, build tooling, distributed messaging systems, API correctness, configuration diagnostics, networking, and developer experience
