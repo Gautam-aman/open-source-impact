@@ -6,7 +6,7 @@
 
 | Metric | Value |
 |----------|----------|
-| Merged Pull Requests | 14 |
+| Merged Pull Requests | 19 |
 | Open Source Projects | 9 |
 | Framework Contributions | 4 |
 | Apache Foundation Projects | 1 |
@@ -93,6 +93,7 @@ Total: 6
 
 - Gradle #38320
 - InsForge #1875
+- InsForge #1922
 
 Total: 2
 
@@ -154,7 +155,7 @@ Total: 2
 
 ## Open Source Impact Summary
 
-Contributed 14 merged pull requests to multiple industry-recognized projects including Gradle, Spring Kafka, Apache RocketMQ, Kubernetes Java Client, OpenRewrite, cBioPortal, InsForge, and Armeria (LINE).
+Contributed 19 merged pull requests to multiple industry-recognized projects including Gradle, Spring Kafka, Apache RocketMQ, Kubernetes Java Client, OpenRewrite, cBioPortal, InsForge, and Armeria (LINE).
 
 Worked across framework internals, distributed messaging systems, build tooling, API reliability, dependency management, automated refactoring, configuration diagnostics, HTTP networking, and developer documentation.
 

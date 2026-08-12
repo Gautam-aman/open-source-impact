@@ -226,9 +226,33 @@ Backend Engineer | Java | Spring Boot | Distributed Systems | Open Source Contri
 
 ---
 
+### 🚀 InsForge
+**PR:** https://github.com/InsForge/InsForge/pull/1922
+
+**Title:** docs(openapi): Document 404 for Function Invoke Methods
+
+- Documented 404 responses for PUT, PATCH, and DELETE function invoke operations.
+- Kept the documented error responses consistent across all five function invoke methods.
+- Used the shared `ErrorResponse` schema for missing or inactive functions.
+
+**Technologies:** OpenAPI, API Documentation, REST APIs
+
+---
+
+### 🚀 Armeria (LINE)
+**PR:** https://github.com/line/armeria/pull/6902
+
+**Title:** Armeria HTTP/RPC Framework Contribution
+
+- Added another merged contribution to Armeria, LINE's open-source HTTP/RPC framework.
+
+**Technologies:** Java, Armeria, HTTP/RPC
+
+---
+
 ## Open Source Impact
 
-- ✅ 17 Merged Pull Requests
+- ✅ 19 Merged Pull Requests
 - ✅ Contributions to Gradle, Spring Kafka, Apache RocketMQ, Kubernetes Java Client, OpenRewrite, cBioPortal, InsForge, and Armeria (LINE)
 - ✅ Experience working with production-grade Java and TypeScript ecosystems used by thousands of developers worldwide
 - ✅ Improved framework reliability, build tooling, distributed messaging systems, API correctness, configuration diagnostics, networking, and developer experience
