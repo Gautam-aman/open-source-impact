@@ -1,4 +1,4 @@
-# Aman Gautam
+gi# Aman Gautam
 
 Checkout : https://open-source-portfolio-ten.vercel.app/
 
@@ -239,6 +239,18 @@ Backend Engineer | Java | Spring Boot | Distributed Systems | Open Source Contri
 
 ---
 
+### 🚀 InsForge
+**PR:** https://github.com/InsForge/InsForge/pull/1923#pullrequestreview-4933468267
+
+**Title:** fix(dashboard): Include Latest Disk Reading in Chart
+
+- Fixed disk chart densification so the newest disk reading is included in the final time slot.
+- Aligned slot lookup with each slot's end boundary and added regression coverage across supported ranges and cadences.
+
+**Technologies:** TypeScript, React, Data Visualization, Testing
+
+---
+
 ### 🚀 Armeria (LINE)
 **PR:** https://github.com/line/armeria/pull/6902
 
@@ -250,9 +262,21 @@ Backend Engineer | Java | Spring Boot | Distributed Systems | Open Source Contri
 
 ---
 
+### 🚀 Armeria (LINE)
+**PR:** https://github.com/line/armeria/pull/6908#event-29432824349
+
+**Title:** Handle SAML SLO Requests Without an Issuer
+
+- Fixed malformed SAML logout requests without an `Issuer` so they return HTTP 400 instead of HTTP 500.
+- Improved graceful handling of invalid SAML single logout requests.
+
+**Technologies:** Java, Armeria, SAML, HTTP, Bug Fix
+
+---
+
 ## Open Source Impact
 
-- ✅ 19 Merged Pull Requests
+- ✅ 21 Merged Pull Requests
 - ✅ Contributions to Gradle, Spring Kafka, Apache RocketMQ, Kubernetes Java Client, OpenRewrite, cBioPortal, InsForge, and Armeria (LINE)
 - ✅ Experience working with production-grade Java and TypeScript ecosystems used by thousands of developers worldwide
 - ✅ Improved framework reliability, build tooling, distributed messaging systems, API correctness, configuration diagnostics, networking, and developer experience
