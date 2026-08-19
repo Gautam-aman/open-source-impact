@@ -1,4 +1,4 @@
-gi# Aman Gautam
+# Aman Gautam
 
 Checkout : https://open-source-portfolio-ten.vercel.app/
 
