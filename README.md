@@ -6,6 +6,19 @@ Backend Engineer | Java | Spring Boot | Distributed Systems | Open Source Contri
 
 ## Open Source Contributions
 
+### 🚀 JabRef
+**PR:** https://github.com/JabRef/jabref/pull/17277#event-31857542772
+
+**Title:** Allow Backspace in Keyboard Shortcuts
+
+- Removed the validation behavior that rejected Backspace while registering keyboard shortcuts.
+- Added a macOS regression test confirming that `Ctrl + Backspace` can be saved for the remove-word-backwards shortcut.
+- Improved keyboard shortcut customization reliability for JabRef users.
+
+**Technologies:** Java, JavaFX, Keyboard Shortcuts, macOS, JUnit
+
+---
+
 ### 🚀 Gradle
 **PR:** https://github.com/gradle/gradle/pull/38312
 
@@ -276,8 +289,8 @@ Backend Engineer | Java | Spring Boot | Distributed Systems | Open Source Contri
 
 ## Open Source Impact
 
-- ✅ 21 Merged Pull Requests
-- ✅ Contributions to Gradle, Spring Kafka, Apache RocketMQ, Kubernetes Java Client, OpenRewrite, cBioPortal, InsForge, and Armeria (LINE)
+- ✅ 22 Merged Pull Requests
+- ✅ Contributions to JabRef, Gradle, Spring Kafka, Apache RocketMQ, Kubernetes Java Client, OpenRewrite, cBioPortal, InsForge, and Armeria (LINE)
 - ✅ Experience working with production-grade Java and TypeScript ecosystems used by thousands of developers worldwide
 - ✅ Improved framework reliability, build tooling, distributed messaging systems, API correctness, configuration diagnostics, networking, and developer experience
 
