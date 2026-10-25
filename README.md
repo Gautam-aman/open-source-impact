@@ -19,6 +19,19 @@ Backend Engineer | Java | Spring Boot | Distributed Systems | Open Source Contri
 
 ---
 
+### 🚀 OWASP SecurityShepherd
+**PR:** https://github.com/OWASP/SecurityShepherd/pull/843
+
+**Title:** fix: use UTC calendar for JDBC timestamp reads
+
+- Replaced timezone-dependent `Calendar.getInstance()` with a shared ThreadLocal UTC Calendar (`DbTime.UTC`) so JDBC timestamp reads behave consistently regardless of server timezone.
+- Added a regression test running under a non-UTC JVM default timezone to guard against future timezone-related authentication bypass.
+- Improved authentication reliability across deployments running in non-UTC timezones.
+
+**Technologies:** Java, Spring Boot, JDBC, Timezone, Authentication, Unit Testing
+
+---
+
 ### 🚀 Gradle
 **PR:** https://github.com/gradle/gradle/pull/38312
 
@@ -289,8 +302,8 @@ Backend Engineer | Java | Spring Boot | Distributed Systems | Open Source Contri
 
 ## Open Source Impact
 
-- ✅ 22 Merged Pull Requests
-- ✅ Contributions to JabRef, Gradle, Spring Kafka, Apache RocketMQ, Kubernetes Java Client, OpenRewrite, cBioPortal, InsForge, and Armeria (LINE)
+- ✅ 23 Merged Pull Requests
+- ✅ Contributions to JabRef, Gradle, Spring Kafka, Apache RocketMQ, Kubernetes Java Client, OpenRewrite, cBioPortal, InsForge, Armeria (LINE), and OWASP SecurityShepherd
 - ✅ Experience working with production-grade Java and TypeScript ecosystems used by thousands of developers worldwide
 - ✅ Improved framework reliability, build tooling, distributed messaging systems, API correctness, configuration diagnostics, networking, and developer experience
 
