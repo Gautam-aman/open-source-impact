@@ -1,0 +1,143 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /R 4 0 R /B 5 0 R /I 6 0 R >> >> /Contents 7 0 R /Annots [9 0 R 10 0 R 11 0 R 12 0 R] >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Roman /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Bold /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Italic /Encoding /WinAnsiEncoding >>
+endobj
+7 0 obj
+<< /Length 8777 >>
+stream
+BT /B 21 Tf 0 0 0 rg 1 0 0 1 246.0 754.0 Tm (Aman Gautam) Tj ET
+BT /R 8.1 Tf 0 0 0 rg 1 0 0 1 86.0 736.1 Tm ( +91-9118602006 | work.amangautam2128@gmail.com | github.com/Gautam-aman | linkedin.com/in/amangautam21 | amangautam.dev) Tj ET
+0.32 G 0.45 w 48 724.1 m 564 724.1 l S
+BT /B 12 Tf 0 0 0 rg 1 0 0 1 48.0 711.3 Tm (Experience) Tj ET
+0.32 G 0.45 w 48 707.3 m 564 707.3 l S
+BT /B 9.15 Tf 0 0 0 rg 1 0 0 1 58.0 693.3 Tm (DragonX Systems \(AIC, IIT Delhi\)) Tj ET
+BT /R 8.4 Tf 0 0 0 rg 1 0 0 1 496.0 693.3 Tm (Jul 2026 - Oct 2026) Tj ET
+BT /I 8.6 Tf 0 0 0 rg 1 0 0 1 58.0 682.2 Tm (Founding Software Engineering Intern) Tj ET
+BT /R 8.5 Tf 0 0 0 rg 1 0 0 1 60.0 671.2 Tm (-) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 671.2 Tm (Accelerated OpenROAD timing-repair workloads using CUDA and incremental static timing analysis, achieving 15.7x faster GCD timing repair and) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 661.5 Tm (62% lower Ibex repair runtime, reducing compute time for physical-design optimization.) Tj ET
+BT /R 8.5 Tf 0 0 0 rg 1 0 0 1 60.0 651.7 Tm (-) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 651.7 Tm (Automated hardware-specification generation using the OpenAI API, converting natural-language requirements into validated design-canvas) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 642.0 Tm (representations and reducing manual specification-to-design steps.) Tj ET
+BT /R 8.5 Tf 0 0 0 rg 1 0 0 1 60.0 632.2 Tm (-) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 632.2 Tm (Built a hardware design-space exploration pipeline to compare architectural configurations across performance, power, and efficiency metrics,) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 622.5 Tm (reducing manual evaluation effort.) Tj ET
+BT /B 9.15 Tf 0 0 0 rg 1 0 0 1 58.0 609.7 Tm (Open Source Contributor) Tj ET
+BT /R 8.4 Tf 0 0 0 rg 1 0 0 1 374.2 609.7 Tm (20+ merged PRs across 8 production-grade ecosystems) Tj ET
+BT /R 8.5 Tf 0 0 0 rg 1 0 0 1 60.0 598.6 Tm (-) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 598.6 Tm (Contributed to Apache RocketMQ, Armeria \(LINE\), Spring Kafka, Gradle, cBioPortal, OpenRewrite, and InsForge.) Tj ET
+BT /R 8.5 Tf 0 0 0 rg 1 0 0 1 60.0 588.9 Tm (-) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 588.9 Tm (Apache RocketMQ: Fixed broker generating invalid POP checkpoints for non-existent consumer groups \(#9982\).) Tj ET
+BT /R 8.5 Tf 0 0 0 rg 1 0 0 1 60.0 579.1 Tm (-) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 579.1 Tm (Armeria \(LINE\): Fixed IDN-normalization failure on long hostnames with ports, and a sparse-map NullPointerException in Http1ObjectEncoder) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 569.4 Tm (\(#6860, #6899\).) Tj ET
+BT /R 8.5 Tf 0 0 0 rg 1 0 0 1 60.0 559.6 Tm (-) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 559.6 Tm (cBioPortal: Fixed REST API returning HTTP 500 instead of 404 for missing reference genome genes via defensive null handling \(#11910\).) Tj ET
+BT /B 12 Tf 0 0 0 rg 1 0 0 1 48.0 544.1 Tm (Personal Projects) Tj ET
+0.32 G 0.45 w 48 540.1 m 564 540.1 l S
+BT /B 9.15 Tf 0 0 0 rg 1 0 0 1 58.0 526.1 Tm (Real-Time Collaborative Sync Engine) Tj ET
+BT /R 8.5 Tf 0 0 0 rg 1 0 0 1 60.0 515.0 Tm (-) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 515.0 Tm (Engineered a distributed document synchronization engine using Spring Boot, WebSockets, and Redis Pub/Sub, delivering real-time updates across) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 505.2 Tm (connected clients and eliminating manual document refresh.) Tj ET
+BT /R 8.5 Tf 0 0 0 rg 1 0 0 1 60.0 495.5 Tm (-) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 495.5 Tm (Implemented Kafka-backed event persistence and automated PostgreSQL snapshots every 100 operations, enabling state recovery through) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 485.7 Tm (snapshot restoration and incremental event replay instead of full-history reconstruction.) Tj ET
+BT /R 8.5 Tf 0 0 0 rg 1 0 0 1 60.0 476.0 Tm (-) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 476.0 Tm (Built consistent-hash routing across 3 configured application nodes with Operational Transformation \(OT\) for concurrent edits, supporting) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 466.2 Tm (distributed request processing and reducing manual conflict-resolution requirements.) Tj ET
+BT /B 9.15 Tf 0 0 0 rg 1 0 0 1 58.0 452.5 Tm (NyayaSetu - Privacy-First Legal RAG Search Engine) Tj ET
+BT /R 8.5 Tf 0 0 0 rg 1 0 0 1 60.0 441.4 Tm (-) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 441.4 Tm (Built a legal search pipeline using Apache Tika, Tess4J OCR fallback, 768-dimensional embeddings, and Milvus to retrieve relevant judgment) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 431.6 Tm (passages.) Tj ET
+BT /R 8.5 Tf 0 0 0 rg 1 0 0 1 60.0 421.9 Tm (-) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 421.9 Tm (Integrated Spring Boot and local Llama 3.1 inference to generate context-aware answers from retrieved legal documents.) Tj ET
+BT /R 8.5 Tf 0 0 0 rg 1 0 0 1 60.0 412.1 Tm (-) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 412.1 Tm (Reduced legal judgment analysis time from 60 to 5 minutes \(91.7%\) in evaluated workflows.) Tj ET
+BT /R 8.5 Tf 0 0 0 rg 1 0 0 1 60.0 402.4 Tm (-) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 402.4 Tm (Technology Used: Spring Boot, Apache Tika, Tess4J, Milvus, MySQL, Ollama \(Llama 3.1\), React, Vite) Tj ET
+BT /B 9.15 Tf 0 0 0 rg 1 0 0 1 58.0 388.6 Tm (CODOVYN - Multi-Agent AI Development IDE) Tj ET
+BT /R 8.5 Tf 0 0 0 rg 1 0 0 1 60.0 377.5 Tm (-) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 377.5 Tm (Developed a standalone macOS development IDE integrating AI coding agents, persistent task history, model-routing policies, and task recovery) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 367.8 Tm (workflows to reduce manual agent-management overhead.) Tj ET
+BT /R 8.5 Tf 0 0 0 rg 1 0 0 1 60.0 358.0 Tm (-) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 358.0 Tm (Implemented isolated Git worktree editing, reviewed patch application, durable task checkpoints, and policy-controlled agent handoffs to protect) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 348.3 Tm (source-code integrity during AI-assisted development.) Tj ET
+BT /R 8.5 Tf 0 0 0 rg 1 0 0 1 60.0 338.5 Tm (-) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 338.5 Tm (Technology Used: JavaScript, Node.js, SQLite, Git, Code-OSS) Tj ET
+BT /B 12 Tf 0 0 0 rg 1 0 0 1 48.0 322.9 Tm (Technical Skills) Tj ET
+0.32 G 0.45 w 48 318.9 m 564 318.9 l S
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 58.0 304.9 Tm (Languages: Java, C++, SQL) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 58.0 295.2 Tm (Backend & Frameworks: Spring Boot, REST APIs, Microservices, WebSockets, Hibernate/JPA) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 58.0 285.4 Tm (Distributed Systems & Messaging: Apache Kafka \(Message Queues\), Redis \(Caching\), Multithreading & Concurrency) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 58.0 275.7 Tm (AI/ML: Retrieval-Augmented Generation \(RAG\), LLM Integration \(OpenAI API, Ollama/Llama 3.1\), Vector Embeddings) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 58.0 265.9 Tm (DevOps & Cloud: Docker, GitHub Actions \(CI/CD\), AWS \(EC2\), Render, Netlify, Swagger/OpenAPI) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 58.0 256.2 Tm (Databases: PostgreSQL, MySQL, Milvus \(Vector DB\)) Tj ET
+BT /B 12 Tf 0 0 0 rg 1 0 0 1 48.0 240.6 Tm (Education) Tj ET
+0.32 G 0.45 w 48 236.6 m 564 236.6 l S
+BT /B 9.15 Tf 0 0 0 rg 1 0 0 1 58.0 222.6 Tm (Galgotias College of Engineering and Technology, Greater Noida) Tj ET
+BT /R 8.4 Tf 0 0 0 rg 1 0 0 1 523.8 222.6 Tm (2023 - 2027) Tj ET
+BT /I 8.55 Tf 0 0 0 rg 1 0 0 1 58.0 211.5 Tm (Bachelor of Technology in Computer Science and Engineering) Tj ET
+BT /R 8.5 Tf 0 0 0 rg 1 0 0 1 60.0 200.5 Tm (-) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 200.5 Tm (Relevant Coursework: Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, Database Management Systems,) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 71.0 190.8 Tm (Computer Networks, System Design) Tj ET
+BT /B 12 Tf 0 0 0 rg 1 0 0 1 48.0 175.2 Tm (Achievements) Tj ET
+0.32 G 0.45 w 48 171.2 m 564 171.2 l S
+BT /R 8.5 Tf 0 0 0 rg 1 0 0 1 55.0 157.2 Tm (-) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 66.0 157.2 Tm (Competitive Programming: LeetCode Knight, Max Rating 2102 \(Top 2%\) \(Gautam-aman\); Codeforces Specialist, Max Rating 1434 \(AmanGautam 28\);) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 66.0 147.5 Tm (2000+ DSA problems solved across platforms.) Tj ET
+BT /R 8.5 Tf 0 0 0 rg 1 0 0 1 55.0 137.7 Tm (-) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 66.0 137.7 Tm (Winner, Techfest Hackathon 2026: Built Smart-Sagar, an AI-powered maritime solution, among competing student teams.) Tj ET
+BT /R 8.5 Tf 0 0 0 rg 1 0 0 1 55.0 128.0 Tm (-) Tj ET
+BT /R 8.15 Tf 0 0 0 rg 1 0 0 1 66.0 128.0 Tm (Merit-Based Scholarship: Awarded full tuition fee waiver for top rank in B.Tech admission merit list, Galgotias College \(2023\).) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Title (Aman Gautam Resume) /Creator (Resume Export) >>
+endobj
+9 0 obj
+<< /Type /Annot /Subtype /Link /Rect [58.00 607.70 151.33 618.70] /Border [0 0 0] /A << /S /URI /URI (https://open-source-portfolio-ten.vercel.app/) >> >>
+endobj
+10 0 obj
+<< /Type /Annot /Subtype /Link /Rect [58.00 524.05 195.52 535.05] /Border [0 0 0] /A << /S /URI /URI (https://github.com/Gautam-aman/Real-Time-Collaborative-Sync-Engine) >> >>
+endobj
+11 0 obj
+<< /Type /Annot /Subtype /Link /Rect [58.00 450.45 255.18 461.45] /Border [0 0 0] /A << /S /URI /URI (https://github.com/Gautam-aman/NyayaSetu) >> >>
+endobj
+12 0 obj
+<< /Type /Annot /Subtype /Link /Rect [58.00 386.60 233.31 397.60] /Border [0 0 0] /A << /S /URI /URI (https://github.com/Gautam-aman/CODOVYN) >> >>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000295 00000 n 
+0000000394 00000 n 
+0000000492 00000 n 
+0000000592 00000 n 
+0000009420 00000 n 
+0000009494 00000 n 
+0000009664 00000 n 
+0000009856 00000 n 
+0000010022 00000 n 
+trailer
+<< /Size 13 /Root 1 0 R /Info 8 0 R >>
+startxref
+10186
+%%EOF
